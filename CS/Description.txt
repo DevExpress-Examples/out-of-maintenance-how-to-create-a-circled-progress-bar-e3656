@@ -1,0 +1,7 @@
+How to create a circled progress bar
+
+This example demonstrates how to create a circled progress bar. 
+The main difference from linear progress bar is that the progress status displayed as a clockwise ellipse segment.
+
+In this example we have created a RepositoryItemProgressBar descendant with following additional properties.
+Start progress bar angle. This property defines 
