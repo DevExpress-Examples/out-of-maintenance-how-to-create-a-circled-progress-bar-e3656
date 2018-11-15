@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CircledProgressBar.cs](./CS/CircledProgressBar.cs) (VB: [CircledProgressBarPainter.vb](./VB/CircledProgressBarPainter.vb))
+* [CircledProgressBarObjectPainter.cs](./CS/CircledProgressBarObjectPainter.cs) (VB: [CircledProgressBarObjectPainter.vb](./VB/CircledProgressBarObjectPainter.vb))
+* [CircledProgressBarPainter.cs](./CS/CircledProgressBarPainter.cs) (VB: [CircledProgressBarPainter.vb](./VB/CircledProgressBarPainter.vb))
+* [CircledProgressBarViewInfo.cs](./CS/CircledProgressBarViewInfo.cs) (VB: [CircledProgressBarViewInfo.vb](./VB/CircledProgressBarViewInfo.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+* [RepositoryItemCircledProgressBar.cs](./CS/RepositoryItemCircledProgressBar.cs) (VB: [RepositoryItemCircledProgressBar.vb](./VB/RepositoryItemCircledProgressBar.vb))
+<!-- default file list end -->
 # How to create a circled progress bar
 
 
